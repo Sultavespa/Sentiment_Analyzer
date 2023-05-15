@@ -1,2 +1,2 @@
 # Sentiment_Analyzer
-Python-based sentiment analysis of tweets using NLP and machine learning. Includes scripts for data collection, model training, and sentiment prediction. Trained on Sentiment140 dataset.
+Sentiment Analysis of Tweets using Python and Machine Learning: This project uses Python, Tweepy, and various Natural Language Processing (NLP) and Machine Learning libraries to perform sentiment analysis on tweets. The model is trained using the Sentiment140 dataset and can classify tweets as positive or negative. The project includes a script to fetch and preprocess tweets, a script to train a model, and a script to use the model for sentiment prediction. This is a comprehensive study project for sentiment analysis with a step-by-step guided approach.
